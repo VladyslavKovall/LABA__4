@@ -1,0 +1,15 @@
+﻿  Main.cpp
+C:\Work\ConsoleApplication1\ConsoleApplication1\Main.cpp(4,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Work\ConsoleApplication1\ConsoleApplication1\Main.cpp(5,2): error C2065: 'mov': undeclared identifier
+C:\Work\ConsoleApplication1\ConsoleApplication1\Main.cpp(5,6): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Work\ConsoleApplication1\ConsoleApplication1\Main.cpp(5,6): error C2065: 'eax': undeclared identifier
+C:\Work\ConsoleApplication1\ConsoleApplication1\Main.cpp(6,2): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Work\ConsoleApplication1\ConsoleApplication1\Main.cpp(6,2): error C2065: 'add': undeclared identifier
+C:\Work\ConsoleApplication1\ConsoleApplication1\Main.cpp(6,6): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Work\ConsoleApplication1\ConsoleApplication1\Main.cpp(6,6): error C2065: 'eax': undeclared identifier
+C:\Work\ConsoleApplication1\ConsoleApplication1\Main.cpp(7,2): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Work\ConsoleApplication1\ConsoleApplication1\Main.cpp(7,2): error C2065: 'mov': undeclared identifier
+C:\Work\ConsoleApplication1\ConsoleApplication1\Main.cpp(7,6): error C2146: syntax error: missing ';' before identifier 'a'
+C:\Work\ConsoleApplication1\ConsoleApplication1\Main.cpp(7,8): error C2065: 'eax': undeclared identifier
+C:\Work\ConsoleApplication1\ConsoleApplication1\Main.cpp(8,1): error C2143: syntax error: missing ';' before '}'
+C:\Work\ConsoleApplication1\ConsoleApplication1\Main.cpp(2,1): error C1075: '{': no matching token found
